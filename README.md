@@ -1,4 +1,5 @@
 # py-testing - A simple showcase of testing in python with unittest
+> Created by Nicholas Ramsay
 
 ## main.py
 ```python
